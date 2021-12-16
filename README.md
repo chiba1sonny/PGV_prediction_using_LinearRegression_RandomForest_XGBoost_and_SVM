@@ -11,5 +11,6 @@ Develop new attenuation relationships of peak ground velocity using Linear regre
 Get contact with chiba1sonny@gmail.com
 # Variables
 The objective variable---PGV;
+
 The explanatory variables---Mw,Depth,Distance
 
