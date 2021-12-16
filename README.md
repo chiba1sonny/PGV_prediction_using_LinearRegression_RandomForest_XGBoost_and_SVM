@@ -1,4 +1,4 @@
-# PGV-prediction-using-LR-RF-XGBoost-and-SVM
+# PGV prediction using Linear Regression, Random Forest, XGBoost, and SVM
 # PGV
 peak ground velocity, an earthquake intensity.
 
