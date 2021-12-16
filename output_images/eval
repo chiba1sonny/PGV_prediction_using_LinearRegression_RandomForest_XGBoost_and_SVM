@@ -1,0 +1,5 @@
+	Model	R-squared Score
+	XGBoost	71.422141
+	Support Vector Machines	70.284099
+	Random Forest	64.749816
+	Linear Regression	57.157583
