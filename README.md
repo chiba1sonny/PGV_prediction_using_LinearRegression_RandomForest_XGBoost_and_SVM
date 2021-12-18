@@ -1,6 +1,6 @@
 # PGV prediction using Linear Regression, Random Forest, XGBoost, and SVM
 ## PGV
-peak ground velocity, an earthquake intensity.
+Peak ground velocity, an earthquake intensity.
 
 https://arxiv.org/abs/2111.00220
 ## Introduction
